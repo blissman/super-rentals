@@ -1,6 +1,6 @@
 # Super-rentals
 
-Super-rentals is an ember tutorial built to resemble a property rental website.
+Super-rentals is a tutorial ember app that simulates a property rental website.
 
 ## Prerequisites
 
